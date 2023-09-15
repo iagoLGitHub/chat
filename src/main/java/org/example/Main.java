@@ -17,7 +17,11 @@ public class Main {
 
 
         /**Estoy con hacer la busqueda de todos los usuarios, para eso necesito manejar arraylist en usuariodao **/
-
+        /**
+         * usuario:iago
+         * Contraseña:A1234a
+         */
+        /
 
         LoginController log = new LoginController();
         Usuario usuario = null;
